@@ -4,7 +4,6 @@ using System.Threading;
 
 namespace Lab1
 {
-
     public class SecondExercise
     {
         public static void StartThreading()
